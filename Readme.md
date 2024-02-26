@@ -1,3 +1,2 @@
-#git_test
-my first git repo 
-hello Chaitanya
+# Starting Web Dev
+Come learn with me 
